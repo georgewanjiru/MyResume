@@ -10,7 +10,7 @@ _______________________________________________________________________________
 ____________________________________________________________________________________________________________________
 ###Programming Skills/Languages:
 * OOP, Data Structure & Algorithms.
-* Proficient in ASP.net, C++, C#, XHTML, XML, Voice XML, CSS, Java (console apps), JavaScript (web apps), SQL, and Bash.
+* Proficient in ASP.net, C++, C#, XHTML, XML, Voice XML, CSS, Java, JavaScript, SQL, and Bash.
 
 ###Development Software:
 * DBMS; Microsoft SQL Server, MySQL.
