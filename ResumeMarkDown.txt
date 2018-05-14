@@ -1,0 +1,51 @@
+#GEORGE WANJIRU#
+1805 Filbert RD Apt 38 Lynnwood, WA 98037 206.446.4905 georgewanjiru@gmail.com
+_____________________________________________________________________
+
+##Objective
+_______________________________________________________________________________
+  To obtain Software Engineering apprenticeship so I can successfully re-enter IT field after a hiatus.
+
+## SKILLS 
+____________________________________________________________________________________________________________________
+###Programming Skills/Languages:
+* OOP, Data Structure & Algorithms.
+* Proficient in ASP.net, C++, C#, XHTML, XML, Voice XML, CSS, Java (console apps), JavaScript (web apps), SQL, and Bash.
+
+###Development Software:
+* DBMS; Microsoft SQL Server, MySQL.
+* IDE’s; Microsoft Visual Studio 2017, Eclipse and SQL Server Management Studio 
+
+##RELEVANT PROJECTS 
+____________________________________________________________________________________________________________
+###Software Support Engineer - 2012 to 2013
+* Intersoft Inc employee contracting for Amazon Marketplace Web Services. 
+* This role entailed helping Amazon Marketplace Webservices (AMW)  users with technical questions on the api.
+
+###Software Developer – 2011 to 2012
+* Cayuse Technologies Pendleton, Oregon Worked as a developer in an Interactive Voice Response system projects. 
+* Most of my duties were to maintain and enhance voice applications. 
+* Ran performance test component based system.
+* Utilized VXML, SQL, JavaScript, UNIX & Shell Scripting. 
+* Responsibilities: Host implementation, developed vxml code from callflows and High Level Definition documents, packaged the application and deployed it to a Linux server, held meetings with the team and clients. 
+
+	
+###Software Developer – 2011 to 2012 
+* Cayuse Technologies - Working as a junior developer of a web app which processes information for our current Human Resource site, utilizing ASP.net, C#, SQL, and JavaScript for both the design and functionality of the existing application. 
+* Responsibilities: Help with gathering requirements, scheduling meetings with the client, write code to implement the requirements, developed system test, write user acceptance tests, and administer the test.
+
+	
+###Lead Tester – 2010 to 2011 
+* CWU Computer Sciences Department, Washington.  
+* Developed system, which is still in use, that provides accessible material to students with print-related disabilities.  
+* As the lead developer for the project, I was in-charge of developing test cases for Business Logic and acceptance tests. 
+* Developed code for input validation and acted as the liaison between the team and client.
+
+##EDUCATION
+____________________________________________________________________________________________________________________________________________	
+###Central Washington University
+- Bachelor of Science - 2011.      
+    - Computer Science 
+    - Minor in Mathematics       
+	
+
